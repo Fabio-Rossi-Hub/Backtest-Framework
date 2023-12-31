@@ -11,6 +11,7 @@ A basic example can be found in `example_stdev_pairtrading_backtest.ipynb`.
 
 ## Project Structure
 
+```plaintext
 backtest-framework/
 |-- src/
 |   |-- __init__.py
@@ -25,4 +26,4 @@ backtest-framework/
 |-- example_stdev_pairtrading_backtest.ipynb
 |-- README.md
 |-- LICENSE
-
+```
